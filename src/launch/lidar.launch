@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="lidar_dist" type="lid_dist.py" name="scan_dist" output="screen" >
+    </node>
+</launch>
